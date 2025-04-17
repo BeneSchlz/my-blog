@@ -2,10 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://schulzbenedict.com/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://schulzbenedict.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>https://schulzbenedict.com/impressum/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://schulzbenedict.com/impressum/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;
+&lt;p&gt;Angaben gemäß § 5 TMG:&lt;/p&gt;
+&lt;p&gt;Benedict Schulz&lt;br&gt;
+Detlef-von-Liliencron Straße 14&lt;br&gt;
+16321 Bernau&lt;br&gt;
+Deutschland&lt;/p&gt;
+&lt;p&gt;Kontakt:&lt;br&gt;
+Telefon: 0157 57858362&lt;br&gt;
+E-Mail: &lt;a href=&#34;mailto:benedict@schulzbenedict.com&#34;&gt;benedict@schulzbenedict.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:&lt;br&gt;
+Benedict Schulz&lt;br&gt;
+Detlef-von-Liliencron Straße 14&lt;br&gt;
+16321 Bernau&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Haftungsausschluss:&lt;br&gt;
+Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links.&lt;br&gt;
+Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;
+&lt;p&gt;Urheberrecht:&lt;br&gt;
+Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht.&lt;br&gt;
+Beiträge Dritter sind als solche gekennzeichnet.&lt;br&gt;
+Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
